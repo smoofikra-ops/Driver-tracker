@@ -1,0 +1,5 @@
+{
+  "name": "Driver Commission Tracker (متتبع عمولات المناديب)",
+  "description": "A web application to track daily orders for delivery drivers and calculate their monthly commissions based on a tiered system. The app uses Google Sheets as a database and is presented in an Arabic RTL interface.",
+  "requestFramePermissions": []
+}
